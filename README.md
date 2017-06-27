@@ -3,3 +3,5 @@ sh -c "$(curl -fsSL https://raw.githubusercontent.com/Meh-Dotfiles/oh-my-zsh/mas
 
 ### Fonts for ZSH
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/Meh-Dotfiles/fonts/master/install.sh)"
+
+## VIM
